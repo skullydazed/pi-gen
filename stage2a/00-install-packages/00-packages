@@ -1,0 +1,11 @@
+avr-libc
+binutils-arm-none-eabi
+binutils-avr
+clang-format
+dfu-programmer
+dfu-util
+gcc-arm-none-eabi
+gcc-avr
+git
+libnewlib-arm-none-eabi
+python3-pip
